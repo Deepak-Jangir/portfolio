@@ -3,5 +3,7 @@
     "description": "My portfolio",
     "require": {
         "php": ">=5.5.9"
-    }
+    },
+    "minimum-stability": "beta",
+    "prefer-stable": true
 }
